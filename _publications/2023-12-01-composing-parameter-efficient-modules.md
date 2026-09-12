@@ -1,0 +1,10 @@
+---
+title: "Composing Parameter-Efficient Modules with Arithmetic Operations"
+authors: "Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He"
+date: 2023-12-01
+year: 2023
+venue: "NeurIPS 2023"
+paperurl: 
+codeurl: 
+category: conferences
+---
